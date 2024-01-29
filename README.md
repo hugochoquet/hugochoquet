@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on https://m4-next-js.vercel.app and EOclock (made with tailwind/React/Express/MongoDB) actually i play a lot à league of legend and im depressed a lot too
+I’m currently working on https://m4-next-js.vercel.app and EOclock (made with tailwind/React/Express/MongoDB) actually i play a lot at league of legend, palmworld and im depressed a lot too 
 <!--
 **hugochoquet/hugochoquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

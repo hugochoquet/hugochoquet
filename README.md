@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on https://m4-next-js.vercel.app(gsap/framer-motion/nextJs-project/React/CSSmodules) and EOclock (made with tailwind/React/Express/MongoDB/Vite-project) 
+I’m currently working on https://m4-next-js.vercel.app x(gsap/framer-motion/nextJs-project/React/CSSmodules) and EOclock (made with tailwind/React/Express/MongoDB/Vite-project) 
 <!--
 **hugochoquet/hugochoquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
